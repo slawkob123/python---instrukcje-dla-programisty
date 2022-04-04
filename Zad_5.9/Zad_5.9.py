@@ -15,3 +15,4 @@ for users in new_users:
         print(f"Nazwa prawid³owa - {users}")
 
 print("Slawek jest spoko")
+print("halo, halo")
